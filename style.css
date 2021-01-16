@@ -8,7 +8,7 @@ body{
 
 }
 h1{
-padding: 3rem 3rem;
+padding: 1rem 3rem .6rem;
 font-size: 3rem;
 font-weight: 900;
 font-family: cursive;
@@ -18,16 +18,19 @@ font-family: cursive;
   text-align: center;
 }
 img{
-  margin-top: 2rem;
+  margin-top: .7rem;
   width: 90px;
   height:90px;
 }
-imm1{
-  margin: 6rem;
-}
+
 
 footer{
   background-color: #bfbf77;
   text-align: center;
-  padding: 10rem 1em 10rem 2rem;
+  padding: 2rem 1em 25rem 2rem;
+  color: Black;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1rem;
 }
+
