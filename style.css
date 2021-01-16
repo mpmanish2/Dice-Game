@@ -1,0 +1,33 @@
+body{
+  padding: 0 .6rem;
+  font-family: cursive;
+  font-size: 1.6rem;
+  font-weight:900;
+  text-align: center;
+  background-color: #bfbf77;
+
+}
+h1{
+padding: 3rem 3rem;
+font-size: 3rem;
+font-weight: 900;
+font-family: cursive;
+}
+.fluid-container{
+  background-color:  #bfbf77;
+  text-align: center;
+}
+img{
+  margin-top: 2rem;
+  width: 90px;
+  height:90px;
+}
+imm1{
+  margin: 6rem;
+}
+
+footer{
+  background-color: #bfbf77;
+  text-align: center;
+  padding: 10rem 1em 10rem 2rem;
+}
